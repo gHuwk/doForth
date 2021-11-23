@@ -27,6 +27,14 @@ https://habr.com/ru/post/550508/
 
 http://forth-j.narod.ru/book4.htm
 
+ВЫ АХУЕЕТЕ, НО ТУТ ЗАМЕШАНЫ КОМАНДЫ ПРОЦЕССОРА
+
+https://en.wikipedia.org/wiki/X86_instruction_listings#x87_floating-point_instructions
+
+РЕАЛИЗАЦИЯ КВАДРАТНОГО КОРНЯ
+
+http://www.azillionmonkeys.com/qed/sqroot.html
+
 # Что надо сделать
 Найти какой-нибудь комиплятор для этого языка, чтобы он был желательно кросплатформенный - Linux, Windows, ARM и AVR.
 Посмотреть возможные реализации данного языка
