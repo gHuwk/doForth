@@ -35,6 +35,10 @@ https://en.wikipedia.org/wiki/X86_instruction_listings#x87_floating-point_instru
 
 http://www.azillionmonkeys.com/qed/sqroot.html
 
+КРАСИВЫЙ УЧЕБНИК ПО FORTH - ПОКА ТУТ ПИШУ
+
+https://skilldrick.github.io/easyforth/
+
 # Что надо сделать
 Найти какой-нибудь комиплятор для этого языка, чтобы он был желательно кросплатформенный - Linux, Windows, ARM и AVR.
 Посмотреть возможные реализации данного языка
