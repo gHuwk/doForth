@@ -15,6 +15,10 @@ https://dev.abcdef.wiki/wiki/Forth_(programming_language)
 
 https://forth-standard.org/
 
+ВОТ ТУТ ВОТ ОФИГЕННО ДОЛЖНО БЫТЬ ОПИСАНО ВСЕ
+
+http://rigidus.ru/
+
 # Что надо сделать
 Найти какой-нибудь комиплятор для этого языка, чтобы он был желательно кросплатформенный - Linux, Windows, ARM и AVR.
 Посмотреть возможные реализации данного языка
