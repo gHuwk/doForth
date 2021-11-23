@@ -9,6 +9,12 @@ https://xakep.ru/2019/07/24/forth/
 
 https://lurkmore.to/Forth
 
+https://www.forth.com/resources/forth-programming-language/
+
+https://dev.abcdef.wiki/wiki/Forth_(programming_language)
+
+https://forth-standard.org/
+
 # Что надо сделать
 Найти какой-нибудь комиплятор для этого языка, чтобы он был желательно кросплатформенный - Linux, Windows, ARM и AVR.
 Посмотреть возможные реализации данного языка
