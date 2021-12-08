@@ -67,3 +67,12 @@ http://www.azillionmonkeys.com/qed/sqroot.html
 https://skilldrick.github.io/easyforth/
 
 
+КАК ДОБАВИТЬ ТОКЕН:
+
+Заходим в гит репозиторий и меняем URL
+
+git remote set-url origin https: //gHuwk:{TOKEN}@github. com/gHuwk/{название_реапозитория}.git
+
+Вставляя генерируемый токен для работы
+
+
